@@ -6,7 +6,7 @@ export default function ToolsStack() {
 
       <div className="toolsstack--container--box">
         <div className="toolsstack--container">
-          <h2>Tools Stack Bro</h2>
+          <h2>Tools Stack</h2>
         </div>
       </div>
       <div className="toolsstack--section--container">
