@@ -1,0 +1,127 @@
+{
+    "skills": [
+        {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Black Box Testing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit"       
+        },
+        {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "White Box Testing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit"       
+        },
+        {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "Automation Testing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit"       
+        },
+        {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "API Testing",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit"       
+        }
+    ],
+
+    "portfolio": [
+        {
+        "id": "1",
+        "src": "./img/placeholder-image-1.png",
+        "title": "Selenium Master",
+        "description": "Automation project developed using the Selenium framework with Python. Oriented to the web part, it has a number of automation cases to different pages.",
+        "link"  : "View in Github" 
+        },
+        {
+        "id": "2",
+        "src": "./img/placeholder-image.png",
+        "title": "Api-Demos",
+        "description": "Automation project developed using Katalon Studio with Groovy. Oriented to Mobile part. You will able to see automation mobile test case to Api-Demos App.",
+        "link"  : "View in Github"  
+        },
+        {
+        "id": "3",
+        "src": "./img/placeholder-image-2.png",
+        "title": "Go Market",
+        "description": "Automation project developed using the Cypress framework with JavaScript. Oriented to the web part, you will be able to see manual and automation test cases. ",
+        "link"  : "View in Github"      
+        }
+    ],
+
+    "toolstack": [
+        {
+            "id": "1",
+            "src": "./img/vs-code-icon.png",
+            "description": "VS Code"       
+        },
+        {
+            "id": "2",
+            "src": "./img/postman-icon.png",
+            "description": "Postman"       
+        },
+        {
+            "id": "3",
+            "src": "./img/soapui-icon.png",
+            "description": "SoapUI"
+        },
+        {
+            "id": "4",
+            "src": "./img/jira-icon.png",
+            "description": "Jira"       
+        },
+        {
+            "id": "5",
+            "src": "./img/azuredevops-icon.png",
+            "description": "Azure DevOps"       
+        },
+        {
+            "id": "6",
+            "src": "./img/katalonstudio-icon.png",
+            "description": "Katalon Studio"       
+        },
+        {   
+            "id": "7",
+            "src": "./img/androidstudio-icon.png",
+            "description": "Android Studio"       
+        },
+        {
+            "id": "8",
+            "src": "./img/xcode-icon.png",
+            "description": "Xcode"    
+        },
+        {
+            "id": "9",
+            "src": "./img/jmeter-icon.png",
+            "description": "Jmeter"    
+        },
+        {
+            "id": "10",
+            "src": "./img/openshift-icon.png",
+            "description": "OpenShift"    
+        },
+        {
+            "id": "11",
+            "src": "./img/bitbucket-icon.png",
+            "description": "BitBucket"    
+        },
+        {
+            "id": "12",
+            "src": "./img/jenkins-icon.png",
+            "description": "Jenkins"    
+        },
+        {
+            "id": "13",
+            "src": "./img/apimanager-icon.png",
+            "description": "Api Manager"    
+        },
+        {
+            "id": "14",
+            "src": "./img/mongodb-icon.png",
+            "description": "MongoDB Compass"    
+        }
+
+    ]
+    
+} 
